@@ -2,4 +2,7 @@ Lenguaje utilizado: Python
 
 Lista de ejercicios con descripción:
 
-He aprendido las bases de la programación con este precioso lenguaje, desde hacer operaciones básicas hasta definir variables, funciones, clases y diccionarios.
+Dia1 - Listas, Operadores, Condicionales, Diccionarios
+Dia2 - Bucles, Clases
+Dia3 - Librerias, Numpy, Prophet
+Dia4 - Ejercicios de repaso usando la API de SpaceX
